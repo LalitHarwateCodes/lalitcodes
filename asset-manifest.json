@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/lalitcodes/static/css/main.c49cf0a6.css",
-    "main.js": "/lalitcodes/static/js/main.62c9ba45.js",
+    "main.css": "/lalitcodes/static/css/main.5b633333.css",
+    "main.js": "/lalitcodes/static/js/main.af3f76cc.js",
     "static/js/787.47632c9c.chunk.js": "/lalitcodes/static/js/787.47632c9c.chunk.js",
     "static/media/profile-photo.jpg": "/lalitcodes/static/media/profile-photo.87af9cdb0b3b59ce126f.jpg",
     "static/media/logo-new.png": "/lalitcodes/static/media/logo-new.0b0e0accdaa1b8d830d0.png",
     "static/media/cryptico.png": "/lalitcodes/static/media/cryptico.733d5ad5217528fbf5a9.png",
     "static/media/p-new.png": "/lalitcodes/static/media/p-new.2219902609f307b8e92e.png",
     "index.html": "/lalitcodes/index.html",
-    "main.c49cf0a6.css.map": "/lalitcodes/static/css/main.c49cf0a6.css.map",
-    "main.62c9ba45.js.map": "/lalitcodes/static/js/main.62c9ba45.js.map",
+    "main.5b633333.css.map": "/lalitcodes/static/css/main.5b633333.css.map",
+    "main.af3f76cc.js.map": "/lalitcodes/static/js/main.af3f76cc.js.map",
     "787.47632c9c.chunk.js.map": "/lalitcodes/static/js/787.47632c9c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c49cf0a6.css",
-    "static/js/main.62c9ba45.js"
+    "static/css/main.5b633333.css",
+    "static/js/main.af3f76cc.js"
   ]
 }
