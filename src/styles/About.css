@@ -1,0 +1,48 @@
+
+
+.about-grid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 9.6rem;
+    gap: 10rem;
+    
+}
+
+.about-title{
+    font-weight: 400;
+    font-size: 1.8rem;
+    line-height: 1.7;
+    color: #777;
+    align-self: center;
+    padding: 0.5rem;
+    /* letter-spacing: .9px; */
+    line-height: 1.9;
+}
+
+.about-photo{
+    width: 30rem;
+    border-radius: 12px;
+    justify-items: center;
+}
+
+@media (max-width:700px){
+    .about-grid{
+        flex-direction: column-reverse;
+        gap: 5rem;
+    }
+
+    .about-photo{
+        width: 20rem;
+    }
+
+    .about-title{
+        font-size: 1.4rem;
+    }
+
+    .about-grid{
+        padding: 0 1rem;
+        gap: 2rem;
+    }
+}
+
