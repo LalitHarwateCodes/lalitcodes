@@ -20,7 +20,7 @@ function Navbar() {
           <ul>
           
          
-            <li className='common-btn btn-shadow'>Resume</li>
+            <a href='../images/Resume.pdf' target='_blank' download><li className='common-btn btn-shadow'>Resume</li></a>
           
           
           </ul>

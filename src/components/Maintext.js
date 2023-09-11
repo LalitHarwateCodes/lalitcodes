@@ -11,8 +11,8 @@ function Maintext() {
     <p className='heading-secondary'>A passionate <span className='highlight'>Frontend Developer</span> specialized in building stunning pixel-perfect interactive websites/applications.</p>
     <div className='header-cta'>
     
-        <ion-icon className='cta' name="logo-linkedin"></ion-icon>
-        <ion-icon className='cta' name="logo-github"></ion-icon>
+        <a href='https://www.linkedin.com/in/lalit-harwate-640a4b282/' target='_blank'><ion-icon className='cta' name="logo-linkedin"></ion-icon></a>
+        <a href='https://github.com/LalitHarwateCodes?tab=repositories' target='_blank'><ion-icon className='cta' name="logo-github"></ion-icon></a>
     </div>
     </div>
 

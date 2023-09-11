@@ -17,8 +17,8 @@ function Projects() {
           <p className='project-title'>Cryptico</p>
           <p className='project-desc'>A simple, beginner-friendly React app allowing user to explore top cryptocurrencies, where they will find real-time prices of their favourite coins, high and low market prices, and the ability to search for more than 200 Cryptocurrencies.</p>
           <div className='block-cta'>
-            <button className='project-cta btn-shadow'>Source Code</button>
-            <button className='project-cta btn-shadow'>Visit</button>
+          <a href='https://github.com/LalitHarwateCodes/Cryptico' target='_blank' className='project-cta btn-shadow'>Source Code</a>
+            <a href='https://lalitharwatecodes.github.io/Cryptico/' target='_blank' className='project-cta btn-shadow'>Visit</a>
           </div>
           </div>
        </div>
@@ -27,15 +27,15 @@ function Projects() {
        <div className='project-content'>
        <div class="project-tags">
               <span class="tag">Django</span>
-              <span class="tag">HTML</span>
-              <span class="tag">CSS</span>
+              <span class="tag">HTML/CSS</span>
               <span class="tag">JavaScript</span>
+              <span class="tag">SQLlite</span>
             </div>
           <p className='project-title'>BitTracker</p>
           <p className='project-desc'>sadfjskljf</p>
           <div className='block-cta'>
-            <button className='project-cta btn-shadow'>Source Code</button>
-            <button className='project-cta btn-shadow'>Visit</button>
+            <a href='https://lalitharwatecodes.github.io/Cryptico/' target='_blank' className='project-cta btn-shadow'>Source Code</a>
+            <a href='https://lalitharwatecodes.github.io/Cryptico/' target='_blank' className='project-cta btn-shadow'>Visit</a>
           </div>
           </div>
        </div>
