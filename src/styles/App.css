@@ -10,6 +10,12 @@
 body{
   background-color: #fff;
   color: black;
+  position: relative;
+  
+}
+
+html{
+  overflow-x: hidden;
 }
 
 html{
@@ -54,6 +60,7 @@ html{
 .btn-shadow:hover{
   box-shadow: 0px 5px 8px 0px #6c28d9b5
 }
+
 
 
 

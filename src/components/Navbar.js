@@ -11,6 +11,7 @@ function Navbar() {
   }
   return (
     <div>
+    <div className='icon'><ion-icon name="logo-react"></ion-icon></div>
       <header className='section-header'>
       <div className='logo'>
       <ion-icon name="code-slash-outline"></ion-icon><span>LalitCodes</span>

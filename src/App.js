@@ -8,13 +8,16 @@ import './styles/App.css';
 
 function App() {
   return (
+    
     <main>
+    
      <Navbar />
      <Maintext/>
       <About />
       <Skills />
       <Projects />
       <Contact />
+    
       </main>
   );
 }
