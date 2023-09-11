@@ -1,8 +1,14 @@
-import React from 'react'
+import React, { useState } from 'react'
 import "../styles/Navbar.css"
 import '../styles/queries.css'
 
 function Navbar() {
+
+  const [width,setWidth] = useState(window.innerWidth)
+
+  const showResume = (prev) => {
+      setWidth(prev)
+  }
   return (
     <div>
       <header className='section-header'>
@@ -11,11 +17,11 @@ function Navbar() {
       </div>
         <nav>
           <ul>
-            <li>About</li>
-            <li>Work</li>
-            <li>Contact</li>
-            <li>|</li>
+          
+         
             <li className='common-btn btn-shadow'>Resume</li>
+          
+          
           </ul>
         </nav>
       </header>
