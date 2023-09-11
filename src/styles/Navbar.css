@@ -44,7 +44,7 @@ li{
 
 .icon{
     position: absolute;
-    font-size: 110rem;
+    font-size: 105rem;
     z-index: -100;
     opacity: 10%;
     right: -500px;
